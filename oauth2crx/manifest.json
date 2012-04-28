@@ -1,0 +1,11 @@
+{
+  "name": "OAuth2 example",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "OAuth2 example",
+  "permissions": [
+    "https://accounts.google.com/",
+    "tabs"
+  ],
+  "options_page": "options.html"
+}
